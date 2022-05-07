@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @injo13
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on different interesting projects
+- 💞️ I’m looking to collaborate on different interesting projects, especially those regarding healthcare topics
 - 📫 Contact me: e.muratspahic@hotmail.com
 
 <!---
